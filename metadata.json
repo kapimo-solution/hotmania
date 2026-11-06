@@ -1,0 +1,6 @@
+{
+  "name": "AuraVibe VIP — Plateforme Vidéo Exclusive & Moteur Split Revenue",
+  "description": "Plateforme vidéo exclusive avec moteur de split revenue instantané 85/15 (Nyole Mobile Money & Cartes Bancaires), cybersécurité anti-piratage HLS/DRM et streaming VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
